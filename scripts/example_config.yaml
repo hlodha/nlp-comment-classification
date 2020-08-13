@@ -1,0 +1,7 @@
+id: null
+# experiment parameters
+notebook: ../notebooks/papermill_test.ipynb
+terraform_vars:
+    instance_type: t2.medium
+parameters:
+    foo: 100
